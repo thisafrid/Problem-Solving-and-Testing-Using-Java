@@ -18,4 +18,5 @@ public class IsPalindrome{
             System.out.println("Not a Palindrome Number");
         }
     }
+
 }
